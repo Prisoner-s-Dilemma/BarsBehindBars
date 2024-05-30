@@ -10,7 +10,7 @@ Sections –
   
 - Dataset
   - Raw dataset links(_of provence_)
-  - Data Analysis - Ethical/Legal/Quality/Techbical
+  - Data Analysis - Ethical/Legal/Quality/Technical
   - Cleaned datasets description & Jupyter for script
   - Mashup datasets & Jupyter for script
   - Metadata
